@@ -1,0 +1,1 @@
+This is a code to model a spot (currently just one) on the surface of a star and produce light curves and RV curves, plus composite spectra for each phase. Spot projection follows the prescription in Boisse et al. 2012.
